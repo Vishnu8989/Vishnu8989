@@ -7,8 +7,6 @@
 <br>
 📫 How to reach me : Email : 1906074@kiit.ac.in;
 <br>
-
-<img scr = "./Resources/linkedin.png">Vishnu Singh
 <img src="https://github-readme-stats.vercel.app/api?username=vishnu8989&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!---
