@@ -1,4 +1,4 @@
-<h2><img src="https://giphy.com/stickers/cat-cute-xAqHUL21pMHe0" width="30" height = "30">👋 Hi, I’m Vishnu8989 aka <a href="https://www.linkedin.com/in/vishnu-singh-5b6859196/">Vishnu Singh</a>.</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="20" height = "20">Hi, I’m Vishnu8989 aka Vishnu Singh.</h2>
 👀 I’m interested in Web Development , Machine learning and Artificial Intelligence.
 <br>
 🌱 I’m currently learning Javascript for implementing ML models in Webpages.
@@ -7,4 +7,5 @@
 <br>
 📫 How to reach me : Email : 1906074@kiit.ac.in;
 <br>
+<a href="https://www.linkedin.com/in/vishnu-singh-5b6859196/"><img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="12" height = "12"> Vishnu Singh</a>
 <img src="https://github-readme-stats.vercel.app/api?username=vishnu8989&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
