@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishnu8989 aka <a href="#">Vishnu Singh</a>.
+- 👋 Hi, I’m @Vishnu8989 aka <a href="https://www.linkedin.com/in/vishnu-singh-5b6859196/">Vishnu Singh</a>.
 - 👀 I’m interested in Web Development , Machine learning and Artificial Intelligence.
 - 🌱 I’m currently learning Javascript for implementing ML models in Webpages.
 - 💞️ I’m looking to collaborate on Web Development Projects ( HTML and CSS)
