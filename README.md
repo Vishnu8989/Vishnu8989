@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="20" height = "20">Hi, I’m Vishnu8989 aka Vishnu Singh.</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="20" height = "20">Hi, I’m Vishnu8989 aka <a href="https://www.linkedin.com/in/vishnu-singh-5b6859196/">Vishnu Singh</a>.</h2>
 👀 I’m interested in Web Development , Machine learning and Artificial Intelligence.
 <br>
 🌱 I’m currently learning Javascript for implementing ML models in Webpages.
