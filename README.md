@@ -168,7 +168,7 @@
 
 <br>
 
-## Here is a Random Image (Reload for new image)
+## Here is a Random Image (Reload on Push)
 
 <br>
 
