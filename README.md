@@ -28,6 +28,7 @@
 ### <b>Programming/Markup Languages</b>
 
 <br>
+<div>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -37,7 +38,7 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-
+</div>
 <br>
 
 ### <b>FrameWorks and Libraries</b>
@@ -45,7 +46,6 @@
 <br>
 <div>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="">
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
@@ -81,6 +81,7 @@
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-F4D03F?style=for-the-badge&logo=github&logoColor=#171515">
 </div>
 <br>
 <br>
@@ -88,9 +89,11 @@
 ### <b>Operating Systems</b>
 
 <br>
+<div>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</div>
 <br>
 <br>
 <hr style="border-top: 1px dashed white;border-bottom: 1px dashed white;">
@@ -104,5 +107,56 @@
 <br>
 <br>
 
+<hr style="border-top: 1px dashed white;border-bottom: 1px dashed white;">
+
+<br>
+
+### <b>My GitHub Stats</b>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishnu8989&theme=vue">
+
+<br>
+<hr style="border-top: 1px dashed white;border-bottom: 1px dashed white;">
+<br>
+
+![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnu8989&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+<br>
+<hr style="border-top: 1px dashed white;border-bottom: 1px dashed white;">
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu8989">
+
+<br>
+<hr style="border-top: 1px dashed white;border-bottom: 1px dashed white;">
+<br>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Vishnu8989&theme=minimal">
+
+<br>
+<hr style="border-top: 1px dashed white;border-bottom: 1px dashed white;">
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vishnu8989">
+
+<br>
+<hr style="border-top: 1px dashed white;border-bottom: 1px dashed white;">
+<br>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu8989&layout=compact)](https://github.com/Vishnu8989)
+
+<br>
+<hr style="border-top: 1px dashed white;border-bottom: 1px dashed white;">
+<br>
+
+<br>
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter">
+
+<br>
 <hr style="border-top: 1px dashed white;border-bottom: 1px dashed white;">
 <br>
