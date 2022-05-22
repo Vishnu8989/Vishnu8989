@@ -80,6 +80,10 @@
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
 <img src="">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></div>
+
+![](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)
+
 <br>
 <br>
 
