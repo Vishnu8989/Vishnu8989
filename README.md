@@ -127,6 +127,11 @@
 <hr style="border-top: 1px dashed white;border-bottom: 1px dashed white;">
 <br>
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=Vishnu8989)
+
+<br>
+<br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu8989">
 
 <br>
