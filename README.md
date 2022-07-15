@@ -157,13 +157,9 @@
 
 <div>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter">
-<br>
   
-![Profile View Counter](https://komarev.com/ghpvc/?username=Vishnu8989)
-  
-</br>
-
-![GitHub last commit](https://img.shields.io/github/last-commit/vishnu8989/vishnu8989)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Vishnu8989)<br>
+![GitHub last commit](https://img.shields.io/github/last-commit/vishnu8989/vishnu8989)<br>
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FVishnu__Rajawat)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FVishnu8989%2FMYSQL-Database-Viewer)
 
 </div>
