@@ -4,6 +4,7 @@
 👀 While Handling data and extracting information is Something I relate to, I also like to make things such as an <a href="https://github.com/Vishnu8989/MYSQL-Database-Viewer">app</a> to read my databases easily. Or an <a href="https://github.com/Vishnu8989/Python-Mini-Projects/tree/master/Time%20Adder">app</a> calculate the time taken by the particuar online course in total.
 <br>
 <br>
+
 <center><img src='https://i.ibb.co/hXNSjNw/giphy.gif' height = 300px width=400px></center>
 
 <br>
