@@ -5,7 +5,9 @@
 <br>
 <br>
 
-<center><img src='https://i.ibb.co/hXNSjNw/giphy.gif' height = 300px width=400px></center>
+<center>
+  <img src='https://i.ibb.co/hXNSjNw/giphy.gif' height = 300px width=400px>
+</center>
 
 <br>
 <hr style="border-top: 1px dashed white;border-bottom: 1px dashed white;">
