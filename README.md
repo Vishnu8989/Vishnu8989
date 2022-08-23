@@ -23,7 +23,7 @@
 <hr style="border-top: 1px dashed white;border-bottom: 1px dashed white;">
 <br>
 
-## <b>Teach Stack</b>
+## <b>Tech Stack</b>
 
 ### <b>Programming/Markup Languages</b>
 
