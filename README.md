@@ -105,7 +105,7 @@
 
 ### <b>Contacts</b>
 
-📫 Email : vishnusingh1057@gmail.com
+📫 Email : vishnu8989singh@gmail.com
 <br>
 📱 Contact : +91-7389799048
 <br>
