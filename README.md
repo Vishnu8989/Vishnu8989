@@ -115,7 +115,10 @@
 
 <br>
 
+[![My Hashnode Blog](https://img.shields.io/badge/Hashnode-Blog-blue?logo=hashnode)](https://java-for-developers.hashnode.dev)
 ### 📝 Latest Hashnode Posts
+- [JShell: Fighting IDEs Overthinking and Notepad’s Laziness](https://java-for-developers.hashnode.dev/jshell-fighting-ides-overthinking-and-notepads-laziness-one-line-at-a-time)
+- [Another post title](https://java-for-developers.hashnode.dev/another-post)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
